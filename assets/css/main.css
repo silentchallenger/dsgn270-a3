@@ -1,0 +1,22 @@
+.responsive-logo {
+  max-width: 50vw;
+}
+
+.logo-grid {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex: auto;
+}
+
+.img-background {
+  fill: white;
+}
+
+.red-logo {
+  fill: #FF0000
+}
+
+.helmet-color:hover {
+  fill: #000
+}
